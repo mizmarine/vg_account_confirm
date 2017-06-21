@@ -1,2 +1,1 @@
-# vg_account_confirm
-account confirm
+73e254ed0cf26cbc73429e2eebfcc53d77fbf31fd49e80560aace2d071fcd0bb
